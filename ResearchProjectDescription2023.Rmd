@@ -80,7 +80,7 @@ Language under analysis: any natural language
 
 Type of the project: individual or group (max. 2 people) project  
 
-Language of the project paper: English  
+Language of the project paper: Russian or English  
 
 ### Data annotation  
 The students can either compile the dataset specifically for this research paper or make use of data collected for their term papers, dissertations, other research actitivities. If you use data collected and annotated by other people please indicate it in your research paper. In this case, you will have to (a) write an additional section on *previous research on the topic, comparison of current results with previous studies* or (b) do additional model testing to explore the effects of data size, missing data treatment, data sampling, custom methods within models, etc.
