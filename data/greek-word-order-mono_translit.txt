@@ -1,4 +1,4 @@
-﻿Participant ID;type of question;number of question;response on the acceptability judgment scale;reaction times in milliseconds
+﻿Participant ID;type of question;number of question;response on the acceptability judgment scale;reaction times in milliseconds;
 0a14b7b4f101746c9cd29fbaa746ba5e;Form;7;intro;age;41
 0a14b7b4f101746c9cd29fbaa746ba5e;Form;7;intro;country1;Greece
 0a14b7b4f101746c9cd29fbaa746ba5e;Form;7;intro;country2;Greece
